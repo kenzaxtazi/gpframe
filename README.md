@@ -1,1 +1,1 @@
-A framework for applying GPs to real world data
+A guide for applying GPs to real world data
